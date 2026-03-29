@@ -51,7 +51,7 @@ An ambulance starts at an accident location and must reach the nearest (or chose
 
 ---
 
-## 🗺 City Map
+## City Map
 
 The city has **9 locations (A–I)** and **2 hospitals (C and I)**:
 
@@ -200,7 +200,7 @@ You should see `main.py` listed.
 
 ---
 
-## ▶ How to Run
+## How to Run
 
 ```bash
 python main.py
@@ -377,9 +377,9 @@ Run another search? (y/n):
   ───────────────────────────────────────────────────────
   Algorithm    Cost (min)     Nodes Explored   Status
   ───────────────────────────────────────────────────────
-  BFS          18.0           8                ✅ Found
-  UCS          18.0           5                ✅ Found
-  A*           18.0           3                ✅ Found
+  BFS          18.0           8                 Found
+  UCS          18.0           5                 Found
+  A*           18.0           3                 Found
   ───────────────────────────────────────────────────────
 
   Most efficient (fewest nodes explored): A*
@@ -396,7 +396,7 @@ Run another search? (y/n):
 
 ---
 
-## 📊 Algorithm Comparison
+## Algorithm Comparison
 
 | Property             | BFS         | UCS (Dijkstra) | A\*          |
 |----------------------|-------------|----------------|--------------|
@@ -411,7 +411,7 @@ Run another search? (y/n):
 
 ---
 
-## ⏱ Time Complexity
+## Time Complexity
 
 | Algorithm | Time Complexity   | Space Complexity |
 |-----------|-------------------|------------------|
