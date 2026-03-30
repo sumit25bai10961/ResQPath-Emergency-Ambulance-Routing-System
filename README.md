@@ -454,3 +454,10 @@ The city has two hospitals (`C` and `I`). When auto-select is enabled, the progr
 | `No path found` | You may have blocked too many roads or the graph is disconnected — try fewer blocked roads |
 | Invalid location entered | Only `A` through `I` are valid. Input is case-insensitive |
 | Program closes immediately | Run from terminal/command prompt, not by double-clicking the file |
+
+---
+## Output
+<img width="1919" height="1020" alt="Screenshot 2026-03-30 222903" src="https://github.com/user-attachments/assets/79f84dc1-6e98-4160-a1a4-44d1213d9c2b" />
+<img width="1919" height="1018" alt="Screenshot 2026-03-30 222848" src="https://github.com/user-attachments/assets/dd8dbe86-32d5-4961-bc62-550b42ac0f6c" />
+<img width="1919" height="1013" alt="Screenshot 2026-03-30 222820" src="https://github.com/user-attachments/assets/a85c46ac-aa15-4bf9-8398-2191bbc3dc9e" />
+
